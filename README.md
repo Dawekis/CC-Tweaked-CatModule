@@ -1,1 +1,1 @@
-ComputerCraft-CatModule is a image design API module in ComputerCraft。
+CC: Tweaked-CatModule is a image design API module in ComputerCraft。
